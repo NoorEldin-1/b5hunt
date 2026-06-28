@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- b5hunt brand tile (navy + gold) — TEMPORARY placeholder icon -->
+  <rect width="32" height="32" rx="7" fill="#0b1726"/>
+  <rect x="0.75" y="0.75" width="30.5" height="30.5" rx="6.25" fill="none" stroke="#13314a" stroke-width="1.5"/>
+
+  <!-- targeting reticle: the "hunt" / tactical precision -->
+  <g fill="none" stroke="#c9a227" stroke-width="2" stroke-linecap="round">
+    <circle cx="16" cy="16" r="9"/>
+    <line x1="16" y1="2.5"  x2="16" y2="5.5"/>
+    <line x1="16" y1="29.5" x2="16" y2="26.5"/>
+    <line x1="2.5"  y1="16" x2="5.5"  y2="16"/>
+    <line x1="29.5" y1="16" x2="26.5" y2="16"/>
+  </g>
+
+  <!-- football: EA FC -->
+  <circle cx="16" cy="16" r="5" fill="#f5f1e6"/>
+  <polygon points="16,13 18.85,15.07 17.76,18.43 14.24,18.43 13.15,15.07" fill="#0b1726"/>
+</svg>
